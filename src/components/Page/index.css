@@ -1,0 +1,16 @@
+.pagination{
+    display:flex;
+    flex-wrap: wrap;
+    border: 1px solid white;
+}
+
+.pageItem{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(223, 62, 209);
+    margin-right: -1px;
+    margin-right: 5px;
+}

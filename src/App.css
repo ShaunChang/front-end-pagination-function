@@ -1,0 +1,8 @@
+.App{
+    width: 900px;
+    height: 800px;
+    /* background-color: yellow; */
+    position: relative;
+    left: 250px;
+    top: 100px;
+}
